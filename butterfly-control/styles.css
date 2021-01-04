@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  align-items: top; }
+
+div {
+  display: inline-block; }
+
+p {
+  padding-left: 20px;
+  margin: 0; }
+
+p:hover {
+  cursor: pointer; }
+
+.column {
+  border: 1px solid green;
+  height: 150px; }
+  .column div {
+    width: 100px;
+    border: 1px solid black;
+    height: 90%; }
+
+#Operations {
+  align-self: center; }
+  #Operations button {
+    margin: 5px; }
+
+/*# sourceMappingURL=styles.css.map */

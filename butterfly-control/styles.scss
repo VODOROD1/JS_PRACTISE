@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    align-items: top;
+}
+div {
+    display: inline-block;
+}
+p {
+    padding-left: 20px;
+    margin: 0;
+}
+p:hover {
+    cursor: pointer;
+}
+.column {
+    div {
+        width: 100px;
+        border: 1px solid black;
+        height: 90%;
+    }
+    border: 1px solid green;
+    height: 150px;
+}
+#Operations {
+    align-self: center;
+    button {
+        margin: 5px;
+    }
+}
