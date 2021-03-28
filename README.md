@@ -1,9 +1,8 @@
-##Structure project
-butterfly-control
-char-remover
-math-calculator
-simple-gallery
+## Structure project
+> butterfly-control
+> char-remover
+> math-calculator
+> simple-gallery
 
-##For what this project
-
-##
+## For what this project
+  Project for mastering JavaScript language.
